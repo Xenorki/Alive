@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Local",
+        "adress":"127.0.0.1"
+    },
+    {
+        "name":"Cloudflare",
+        "adress":"1.1.1.1"
+    },
+    {
+        "name":"Google",
+        "adress":"8.8.8.8"
+    }
+]

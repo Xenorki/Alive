@@ -1,0 +1,8 @@
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Alive.exe
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Alive.dll
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Alive.deps.json
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Alive.runtimeconfig.json
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Alive.pdb
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Newtonsoft.Json.dll
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Newtonsoft.Json.pdb
+C:\Users\fsjul\source\repos\Alive\Alive\bin\publish\Newtonsoft.Json.xml

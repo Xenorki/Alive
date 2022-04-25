@@ -1,0 +1,106 @@
+[
+    {
+        "name":"Internet",
+        "adress":"1.1.1.1"
+    },
+    {
+        "name":"SRV Fichiers",
+        "adress":"192.168.125.3"
+    },
+    {
+        "name":"DC 1",
+        "adress":"192.168.125.9"
+    },
+    {
+        "name":"DC 2",
+        "adress":"192.168.125.10"
+    },
+    {
+        "name":"APP 1",
+        "adress":"192.168.125.13"
+    },
+    {
+        "name":"APP 2",
+        "adress":"192.168.125.14"
+    },
+    {
+        "name": "Nutanix Clu",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Nutanix 1",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Nutanix 2",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Nutanix 3",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Nut CVM 1",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Nut CVM 2",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Nut CVM 3",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Bill-Concentrateur",
+        "adress":"172.18.1.15"
+    },
+    {
+        "name":"Bill - COMM",
+        "adress":"172.29.0.3"
+    },
+    {
+        "name":"Bill - BDD",
+        "adress":"172.18.29.0.6"
+    },
+    {
+        "name":"Bill - APPLI",
+        "adress":"172.29.0.7"
+    },
+    {
+        "name":"Ag Montbe",
+        "adress":"192.168.179.254"
+    },
+    {
+        "name":"Ag Audin",
+        "adress":"192.168.180.254"
+    },
+    {
+        "name":"TPV 4",
+        "adress":"4.tpv.ctpm.lan"
+    },
+    {
+        "name":"TPV 9",
+        "adress":"9.tpv.ctpm.lan"
+    },
+    {
+        "name":"TPV 7",
+        "adress":"7.tpv.ctpm.lan"
+    },
+    {
+        "name":"TPV 8",
+        "adress":"8.tpv.ctpm.lan"
+    },
+    {
+        "name":"SAE Clu2",
+        "adress":"172.18.1.2"
+    },
+    {
+        "name":"TD / Pégase",
+        "adress":"172.18.1.3"
+    },
+    {
+        "name":"Borne Wi-fi",
+        "adress":"172.18.2.254"
+    },
+]
